@@ -10,11 +10,11 @@ def calc_func(x):
 
 try: 
 
-    with open("../test.txt", "w") as file:
+    with open("test.txt", "w") as file:
         content = file.write("automationbypython")
     
     dir_path = os.path.abspath(os.path.dirname(__file__))
-    file_path = os.path.join(dir_path, "../test.txt")
+    file_path = os.path.join(dir_path, "test.txt")
     print(file_path)
 
 
