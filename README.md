@@ -1,3 +1,4 @@
 # stepik-auto-tests-course
 
-# https://stepik.org/course/575/syllabus
+# Репозиторий для изучения курса "Автоматизация тестирования с помощью Selenium и Python" на Stepic:
+# https://stepik.org/course/575
